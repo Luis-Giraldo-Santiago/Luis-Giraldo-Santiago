@@ -1,4 +1,3 @@
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am Luis Giraldo</samp>
@@ -36,6 +35,8 @@
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=orange&labelColor=black&color=blue)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
   ![Octave](https://img.shields.io/badge/Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
   ![SageMath](https://img.shields.io/badge/SageMath-5A5A5A?style=for-the-badge&logo=sagemath&logoColor=white)
@@ -48,17 +49,14 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![DBeaver](https://img.shields.io/badge/DBeaver-1F425F?style=for-the-badge&logo=database&logoColor=white)
-  ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0078D6?style=for-the-badge&logo=microsoft-access&logoColor=white)
+  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=black)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=black&color=blue)
-
 </div>
-
 
 <br/>
 
