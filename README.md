@@ -62,3 +62,4 @@
 
 <br/>
 
+![Imagen con código](https://www.uniminuto.edu/sites/default/files/2023-03/Tecnolog%C3%ADa%20en%20desarrollo%20de%20software-100_1.jpg)
